@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @scyv
+- 👀 I’m interested in programming web sites and apps
+- 🌱 I’m currently learning how to integrate AI in my daily business
+- 💞️ I’m looking to collaborate on open source software, made with meteor JS
